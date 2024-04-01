@@ -104,7 +104,7 @@ getgenv().Settings = {
 	   },
 	},
 	["Checks"] = { --entirely not
-	    ["UnlovkOnKO"] = false,
+	    ["UnlovkOnKO"] = true,
 	    ["TrashTalkOnKO"] = false,
 	},
 	["Resolution"] = {
